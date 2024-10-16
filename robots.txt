@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://idubuano.github.io/CUh/sitemap_index.txt.gz
+Sitemap: https://idubuano.github.io/GmN/sitemap_index.txt.gz
+Sitemap: https://idubuano.github.io/JnV/sitemap_index.txt.gz
+Sitemap: https://idubuano.github.io/oDu/sitemap_index.txt.gz
+Sitemap: https://idubuano.github.io/rUW/sitemap_index.txt.gz
+Sitemap: https://idubuano.github.io/sitemap/sitemap_index.txt.gz
